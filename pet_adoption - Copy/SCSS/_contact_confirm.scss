@@ -1,0 +1,14 @@
+@import "./variables";
+
+.contact-confirm-banner {
+    width: 100%;
+    height: 30vh;
+    background: url('/imgs/contact.jpg') no-repeat center center;
+    background-size: cover;
+    margin-bottom: 3em;
+    position: relative;
+
+    img {
+        width: 100%;
+    }
+}
